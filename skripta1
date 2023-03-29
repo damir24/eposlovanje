@@ -1,0 +1,150 @@
+AI kolokvijum
+1.	Za autorizaciju pomocu smart kartica potrebno je imati:
+a.	smart karticu i citac smart kartice
+2.	Osnovni algoritam sifrovanja uz primjenu javnog kljula naziva se:
+a.	RSA algoritam
+3.	Sistem karticarstva se temelji na tehnici?
+a.	PKI
+4.	Povezi tacne odgovore tako da daju semu interneta, intraneta i ekstraneta u sistemu e-komerca?
+a.	INTERNET – on-line servis za kupce
+b.	EKSTRANET – snabdijevanje, informacije, servisi, dobavljaci, ograniceni pristup on-line resursima kompanije
+c.	INTRANET – on-line servis za zaposlene, pristup zaposlenih informacija
+5.	Asimetricni: sifarski sistem koristi?
+a.	dva matematicka povezana kljuca
+6.	Osobine upotrebe TAN-a su:
+a.	ne zahtijeva nosenje uredjaja
+7.	Postupak kojim se korisniku dozvoljava da popunjavajuci odgovarajuci upitnik na sajtu, odredi sta od ponudjenih sadrzaja zeli da vidi na njemu (koje kategorije proizvoda ga interesuju) ili da iskljuci prikaz sadrzaja za koje nije zainteresovan.
+a.	kastomizacija
+8.	Amazon.com koristi se kao osnovni model elektronskog poslovanja:
+a.	prihoda od prodaje
+9.	Prvi platni system na Internetu:
+a.	 First Virtual 
+i.	ne zahtijeva instalaciju specijalizovanog sofvera.
+10.	Prije slanja poruke korisnik je sifrira i digitalno potpisuje:
+a.	svojim tajnim kljucem i primaocevim javnim kljucem
+11.	Prilikom transakcija mikroplacanja koristi se:
+a.	simetricna
+i.	enkripcija
+12.	 Identifikacija korisnika na Internetu na osnovu necega sto znamo obavlja se pomocu:
+a.	PIN-a
+b.	Passworda
+13.	Skracenica ACH znaci:
+a.	automatske klininske kuce
+14.	Elektronski novac je:
+a.	elektronski ekvivalent novcanice
+15.	EDI je:
+a.	standard razvijen sa ciljem razmjene komercijalnih dokumenata i obavljanje transakcija preko privatnih mreza
+16.	Virtualne organizacije su:
+a.	geografski razmjestene organizacije koje su povezane zajednickim interesima, a saradjuju kroz medjusobno nezavisne radne zadatke, kroz prostor i vrijeme, pomocu internet i drugih komunikacionih tehnologija
+17.	On-line sistem placanja podrazumijeva:
+a.	postojanje stalne komunikacione veze izmedju osobe koja je placena (prodavac ) i banke
+18.	Off-line placanje podrazumijeva:
+a.	povremenu vezu izmedju placene osobe i banke
+19.	Povezati tacne odgovore:
+a.	B2B - forma u kojem su ucesnici pravna lica – poslovni subjekti 
+b.	G2B - forme u kome drzavne sluzbe razmjenjuju proizvode, usluge i informacije sa pravnim licima 
+c.	B2E - forma koja se bavi internim aktivnostima u okviru preduzeca, I to obicno razmjena informacija     izmedju zaposlenih, razmjena ili prodaja proizvoda zaposlenim, online obuka.
+d.	P2P - forme u kojim dolazi do razmjene uglavnom digitalnih dobara izmedju korisnika
+e.	C2C -forme u kome su krajnji subjekti (prodavac i kupac) fizicka lica
+f.	B2C - forma koja omogucuje maloprodaju krajnjim kupcima -  korisnicima  
+g.	C2B - forme ukljucuju fizicka lica koja svoje usluge i proizvode prodaju poslovnim subjektim
+20.	Virtualne organizacije mozemo organizovati kao:
+a.	telework
+b.	virtualni timovi
+c.	virtualne kancelarije
+21.	Model elektronskog poslovanja koji omogucava proizvodjacima on – line prodaje na WEB-u, 24 casa dnevno sirom svijeta, sa mogucnoscu on – line placanja, pregleda kataloga i realizacije prodaje vise razlicitih proizvoda u jednoj transakciji naziva se:
+a.	 STOREFRONT model.(vise narudzbina u jednoj transakciji)
+22.	CCNOW sistem placanje je namijenjen za placanje:
+a.	velikih
+i.	Iznosa pri cemu se placanje obavlja
+a.	Karticama
+23.	Kod asimetricnog sifarskog sistema 
+a.	oba kljuca se mogu koristiti i za sifrovanje i za desifrovanje poruka
+24.	Virtuelne kancelarije mogu biti : 
+a.	Hot desk environment 
+b.	Hotelling 
+c.	Touchdown office 
+25.	Smart platna kartica kad se koristi 
+a.	ne mora se direktno pristupiti bazi podataka banke
+26.	EDI se koristi:
+a.	za obavljanje medjusobnih poslova izmedju kompanija
+
+27.	Navesti ucesnike i faze u aukcijskom poslovanju?
+a.	Ucesnici: Prodavac, Aukcionar (posrednik) i Kupac
+b.	Faze: Razmjena informacija, Definisanje cijena, Izvrsenje trgovine i placanje
+28.	Koja je razlika izmedju Engleskog i Holandskog tipa aukcije? 
+a.	Holandski tip startuje sa vece cijene, koja tokom aukcije pada do konacne prodaje, a engleski tip startuje sa manje cijene, koja tokom aukcije raste
+29.	B2B
+a.	predstavlja poslovanje izmedju biznisa. 
+30.	B2C
+a.	predstavlja poslovanje izmedju biznisa i potrosaca
+31.	Telework 
+a.	rad zaposlenog na daljinu
+32.	Lokacija radnog mjesta moze biti: 
+a.	Kod kuce - zaposleni upravljaju dinamikom rada i radnim vremenom
+b.	Satelite Office - kancelarije udaljene od sjedista organizacije
+c.	Mobile Office - primenjuje se kod trgovackih putnika
+d.	Telecentre - kancelarija u kojoj se dijeli prostor sa zaposlenima iz  drugih organizacija
+33.	Algoritam sifrovanja uz prijem javnog kljuca naziva se? 
+a.	Digitalni sertifikat.
+34.	Digitalni sertifikat 
+a.	je dokument izdat od strane autoriteta zaduzenog za izdavanje sertifikata
+35.	Za automatizaciju pomocu smart kartice potrebno je?
+a.	ACH mreza.
+36.	Objasniti sistem identifikacije korisnika na osnovu necega sto znamo
+a.	PIN i Password PIN predstavlja tajni broj koji treba zapamtiti
+b.	Mora biti kratak da se lakse pamti ali je onda nesiguran
+c.	Mora biti dugacak da bi bio sigurniji ali se onda teze pamti
+d.	Za rad na internet potrebno je vise PIN-ova za svaki servis posebno (prosjecno 10-20)
+37.	Koje su osobine TAN-a? 
+a.	Prednost: Ne mora da se nosi u banku zbog transakcije.
+b.	Mana: Teska administracija. Svi TAN-ovi se moraju cuvati u bazi podataka banke
+38.	Koji su poslovni zahtjevi potrebni da se ispune za elektronsko poslovanje?
+a.	Bezbjednost 
+b.	Pouzdanost 
+c.	Elektronsko placanje 
+d.	Sve-prisutnost 
+e.	Brzina 
+f.	Lako do koriscenja
+
+39.	Koja je osnovna podjela Kartica? 
+a.	Horizontalna - Kreditne, Debitne, Interne ili korporacijske, Kartice lojalnosti. 
+b.	Vertikalna - Platinasta, Zlatna, Poslovna, Klasicna, Elektro.
+40.	Koje su vrste platnih kartica sa tehnoloskog aspekta?
+a.	Kartice koje sadrze samo magnetni zapis 
+b.	Kartice koje sadrze chip (i magnetni zapis).
+41.	Kako se naziva Algoritam sifrovanja uz primjenu javnog kljuca? 
+a.	Asimetricna kriptografija
+42.	Prije slanja podataka korisnik ih filtrira? 
+a.	Javnim kljucem.
+43.	Model prihoda od prodaje:
+a.	Kompanija ostvaruje prihod prodajom proizvoda, informacija ili servis
+44.	DES je
+a.	Data Encription Standard
+45.	Simtericni sifarski sistem obezbedjuje da
+a.	posiljalac i primalac koriste isti kljuc za sifrovanje i desifrovanje poruka
+46.	Peer-to-peer
+a.	omogucava korisnicima internet razmjenu fajlova i drugih racunarskih resursa
+47.	Electronic Billing Presentation and Payment je
+a.	novi nacin onlajn olatnih sistema za mjesecne racunare
+48.	Pretty Good Privacy(PGP) je:
+a.	Softwerski program za sifrovanje email-a metodom javnog kljuca
+49.	Certificaion Authority(CA) je:
+a.	Treca strana od poverenja koja izdaje digitalne sertifikate
+50.	Zapecacenje aukcije-objasniti?
+a.	Licitaciju dobija najvisa ponuda
+51.	Ako nekome saljete kriptovanu poruku morate prvo od njega dobiti 
+a.	javni kljuc.
+52.	Elektronski cek
+a.	Elektronski dokument moze da zamjeni papirni dokument i da kriptografski potpis moze da zamjeni rucni potpis.
+53.	Definicija aukcije
+a.	Aukcionar nastupa kao posrednik u ovoj trgovini
+b.	Elektronske aukcije su samo specijalan slucaj poslovanja
+c.	Aukcija se moze posmatrati kao kordinacioni mehanizam za uspostavljanje ravnoteze ponude i traznje
+54.	Razlika izmedju klasicne i smart platne kartice? 
+a.	smart platna kartica kad se koristi ne mora se direktno pristupiti bazi podataka banke
+55.	Platne kartice se najcesce koriste kod mikroplacanja. 
+a.	Ne 
+56.	Navesti razlike izmedju E i I-Biznisa? 
+a.	I-Biznis predstavlja poslovanje samo preko internet dok E-Biznis predstavlja poslovanje preko svih elektronskih medijuma
+
